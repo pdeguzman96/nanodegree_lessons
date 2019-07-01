@@ -3,3 +3,6 @@ DeepLearning/2_Keras/
 DeepLearning/3_PyTorch/
 DeepLearning/new-intro-to-pytorch/F_MNIST_data/
 DeepLearning/new-intro-to-pytorch/Cat_Dog_data/
+*__pycache__/
+*.ipynb_checkpoints/
+DeepLearning/new-intro-to-pytorch/fashion_mnist_repo/
